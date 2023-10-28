@@ -1,5 +1,10 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+</p>
+
+
 MY PROJECT 1° SEMESTER GPI
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
