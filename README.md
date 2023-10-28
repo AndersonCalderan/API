@@ -4,6 +4,11 @@
  <img src="https://github.com/AndersonCalderan/API/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo%20(1).png" width="100%"/>
 </p>
 
+<p align="center">
+ <img src="https://github.com/AndersonCalderan/API/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo%20(1).png" width="100%"/>
+</p>
+
+
 
 MY PROJECT 1° SEMESTER GPI
 
