@@ -1,23 +1,7 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
 -
-
-<p align="center">
- <img src="https://github.com/AndersonCalderan/API/blob/main/Sprint%204/imagem/13.png" width="100%"/>
-</p>
-
-
 -
-
-<p align="center">
- <img src="https://github.com/AndersonCalderan/API/blob/main/Sprint%204/imagem/13.png" width="100%"/>
-</p>
-
--
-
-<p align="center">
- <img src="https://github.com/AndersonCalderan/API/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo%20(2).png" width="100%"/>
-</p>
 
 -
 
